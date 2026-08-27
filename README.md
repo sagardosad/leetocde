@@ -5,4 +5,8 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/sagardosad/leetocde/tree/master/0520-detect-capital) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
