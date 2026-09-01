@@ -23,6 +23,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/sagardosad/leetocde/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,4 +74,5 @@
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
