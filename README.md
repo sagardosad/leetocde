@@ -25,6 +25,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/sagardosad/leetocde/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sagardosad/leetocde/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
@@ -56,10 +57,12 @@
 | [0203-remove-linked-list-elements](https://github.com/sagardosad/leetocde/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sagardosad/leetocde/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sagardosad/leetocde/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sagardosad/leetocde/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -79,4 +82,8 @@
 | [0002-add-two-numbers](https://github.com/sagardosad/leetocde/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/sagardosad/leetocde/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
