@@ -88,6 +88,7 @@
 | [0002-add-two-numbers](https://github.com/sagardosad/leetocde/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 ## Array
 |  |
 | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
