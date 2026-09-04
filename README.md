@@ -96,4 +96,12 @@
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sagardosad/leetocde/tree/master/2181-merge-nodes-in-between-zeros) |
+## Array
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
