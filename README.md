@@ -100,10 +100,19 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
