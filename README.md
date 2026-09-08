@@ -70,6 +70,7 @@
 | [0203-remove-linked-list-elements](https://github.com/sagardosad/leetocde/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sagardosad/leetocde/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/sagardosad/leetocde/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sagardosad/leetocde/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -95,6 +96,7 @@
 | [0002-add-two-numbers](https://github.com/sagardosad/leetocde/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sagardosad/leetocde/tree/master/0050-powx-n) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1922-count-good-numbers](https://github.com/sagardosad/leetocde/tree/master/1922-count-good-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
