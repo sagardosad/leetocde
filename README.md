@@ -33,6 +33,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sagardosad/leetocde/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sagardosad/leetocde/tree/master/2487-remove-nodes-from-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@
 | [0050-powx-n](https://github.com/sagardosad/leetocde/tree/master/0050-powx-n) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/sagardosad/leetocde/tree/master/1922-count-good-numbers) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
