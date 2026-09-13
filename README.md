@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sagardosad/leetocde/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
 | [0520-detect-capital](https://github.com/sagardosad/leetocde/tree/master/0520-detect-capital) |
 ## Linked List
@@ -53,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sagardosad/leetocde/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/sagardosad/leetocde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagardosad/leetocde/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagardosad/leetocde/tree/master/0160-intersection-of-two-linked-lists) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sagardosad/leetocde/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/sagardosad/leetocde/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/sagardosad/leetocde/tree/master/0050-powx-n) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/sagardosad/leetocde/tree/master/1922-count-good-numbers) |
