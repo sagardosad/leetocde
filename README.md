@@ -118,6 +118,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/sagardosad/leetocde/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sagardosad/leetocde/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sagardosad/leetocde/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
@@ -131,6 +132,7 @@
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sagardosad/leetocde/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sagardosad/leetocde/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sagardosad/leetocde/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
