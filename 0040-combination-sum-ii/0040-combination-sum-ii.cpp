@@ -1,24 +1,41 @@
 class Solution {
 public:
-    void combsum(int idx, vector<int>& candidates, int target,
-                 vector<int> &combination, vector<vector<int>> &ans) {
-            if(target==0){
-                ans.push_back(combination);
-                return;
-            }
-        for(int i=idx;i<candidates.size();i++){
-            if(i>idx && candidates[i]==candidates[i-1]) continue;
-            if(candidates[i]>target) break;
-            combination.push_back(candidates[i]);
-            combsum(i+1,candidates,target-candidates[i],combination,ans);
-            combination.pop_back();
+    void combsum(vector<int>& arr, int i,
+                 vector<int>& combination,
+                 vector<vector<int>>& ans,
+                 int target) {
+
+        if (target == 0) {
+            ans.push_back(combination);
+            return;
         }
+
+        if (i == arr.size() || target < 0)
+            return;
+
+        // TAKE
+        combination.push_back(arr[i]);
+        combsum(arr, i + 1, combination, ans, target - arr[i]);
+
+        // BACKTRACK
+        combination.pop_back();
+
+        // SKIP duplicates
+        while (i + 1 < arr.size() && arr[i] == arr[i + 1])
+            i++;
+
+        // SKIP
+        combsum(arr, i + 1, combination, ans, target);
     }
+
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        sort(candidates.begin(), candidates.end());
+
         vector<int> combination;
         vector<vector<int>> ans;
-        sort(candidates.begin(), candidates.end());
-        combsum(0, candidates, target, combination, ans);
+
+        combsum(candidates, 0, combination, ans, target);
+
         return ans;
     }
 };
