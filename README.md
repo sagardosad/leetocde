@@ -120,6 +120,7 @@
 | [0040-combination-sum-ii](https://github.com/sagardosad/leetocde/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sagardosad/leetocde/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
@@ -134,10 +135,12 @@
 | [0040-combination-sum-ii](https://github.com/sagardosad/leetocde/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sagardosad/leetocde/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
 ## Number Theory
 |  |
 | ------- |
