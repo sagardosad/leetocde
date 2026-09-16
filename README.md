@@ -75,6 +75,7 @@
 | [0050-powx-n](https://github.com/sagardosad/leetocde/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/sagardosad/leetocde/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sagardosad/leetocde/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sagardosad/leetocde/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/sagardosad/leetocde/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sagardosad/leetocde/tree/master/2487-remove-nodes-from-linked-list) |
@@ -102,6 +103,7 @@
 | [0002-add-two-numbers](https://github.com/sagardosad/leetocde/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/sagardosad/leetocde/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/sagardosad/leetocde/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sagardosad/leetocde/tree/master/0231-power-of-two) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/sagardosad/leetocde/tree/master/1922-count-good-numbers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -144,6 +146,7 @@
 | ------- |
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/sagardosad/leetocde/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
 | ------- |
