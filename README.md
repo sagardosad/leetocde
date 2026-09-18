@@ -77,6 +77,7 @@
 | [0206-reverse-linked-list](https://github.com/sagardosad/leetocde/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sagardosad/leetocde/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/sagardosad/leetocde/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/sagardosad/leetocde/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sagardosad/leetocde/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
@@ -104,6 +105,7 @@
 | [0012-integer-to-roman](https://github.com/sagardosad/leetocde/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/sagardosad/leetocde/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sagardosad/leetocde/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sagardosad/leetocde/tree/master/0342-power-of-four) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/sagardosad/leetocde/tree/master/1922-count-good-numbers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -149,6 +151,7 @@
 | [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/sagardosad/leetocde/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sagardosad/leetocde/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sagardosad/leetocde/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Number Theory
 |  |
