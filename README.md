@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sagardosad/leetocde/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/sagardosad/leetocde/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/sagardosad/leetocde/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sagardosad/leetocde/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sagardosad/leetocde/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sagardosad/leetocde/tree/master/2220-minimum-bit-flips-to-convert-number) |
