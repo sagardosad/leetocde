@@ -49,6 +49,7 @@
 | [0148-sort-list](https://github.com/sagardosad/leetocde/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagardosad/leetocde/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/sagardosad/leetocde/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sagardosad/leetocde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagardosad/leetocde/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
@@ -153,6 +156,7 @@
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sagardosad/leetocde/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sagardosad/leetocde/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sagardosad/leetocde/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sagardosad/leetocde/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Number Theory
@@ -167,4 +171,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
