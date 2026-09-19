@@ -161,6 +161,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sagardosad/leetocde/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sagardosad/leetocde/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/sagardosad/leetocde/tree/master/2595-number-of-even-and-odd-bits) |
 ## Number Theory
 |  |
 | ------- |
