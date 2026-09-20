@@ -8,6 +8,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sagardosad/leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
 | [0520-detect-capital](https://github.com/sagardosad/leetocde/tree/master/0520-detect-capital) |
+| [3498-reverse-degree-of-a-string](https://github.com/sagardosad/leetocde/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sagardosad/leetocde/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/sagardosad/leetocde/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
