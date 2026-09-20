@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/sagardosad/leetocde/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sagardosad/leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
+| [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
 | [0520-detect-capital](https://github.com/sagardosad/leetocde/tree/master/0520-detect-capital) |
 | [3498-reverse-degree-of-a-string](https://github.com/sagardosad/leetocde/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -135,6 +136,7 @@
 | [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sagardosad/leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
@@ -163,6 +165,7 @@
 | [0191-number-of-1-bits](https://github.com/sagardosad/leetocde/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sagardosad/leetocde/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/sagardosad/leetocde/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sagardosad/leetocde/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/sagardosad/leetocde/tree/master/2595-number-of-even-and-odd-bits) |
