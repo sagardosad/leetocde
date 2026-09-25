@@ -54,6 +54,7 @@
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/sagardosad/leetocde/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/sagardosad/leetocde/tree/master/0905-sort-array-by-parity) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sagardosad/leetocde/tree/master/0148-sort-list) |
+| [0905-sort-array-by-parity](https://github.com/sagardosad/leetocde/tree/master/0905-sort-array-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
+| [0905-sort-array-by-parity](https://github.com/sagardosad/leetocde/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sagardosad/leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sagardosad/leetocde/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
