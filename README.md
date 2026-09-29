@@ -141,6 +141,7 @@
 | [0046-permutations](https://github.com/sagardosad/leetocde/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/sagardosad/leetocde/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/sagardosad/leetocde/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/sagardosad/leetocde/tree/master/0338-counting-bits) |
 ## Bracket Sequences
 |  |
