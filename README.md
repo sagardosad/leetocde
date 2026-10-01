@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sagardosad/leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
+| [0424-longest-repeating-character-replacement](https://github.com/sagardosad/leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/sagardosad/leetocde/tree/master/0520-detect-capital) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sagardosad/leetocde/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/sagardosad/leetocde/tree/master/3498-reverse-degree-of-a-string) |
@@ -67,6 +68,7 @@
 | [0141-linked-list-cycle](https://github.com/sagardosad/leetocde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagardosad/leetocde/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagardosad/leetocde/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/sagardosad/leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagardosad/leetocde/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sagardosad/leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sagardosad/leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
