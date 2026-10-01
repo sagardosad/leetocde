@@ -67,6 +67,7 @@
 | [0141-linked-list-cycle](https://github.com/sagardosad/leetocde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagardosad/leetocde/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagardosad/leetocde/tree/master/0160-intersection-of-two-linked-lists) |
+| [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
+| [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sagardosad/leetocde/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sagardosad/leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagardosad/leetocde/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sagardosad/leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
