@@ -11,6 +11,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
 | [0424-longest-repeating-character-replacement](https://github.com/sagardosad/leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/sagardosad/leetocde/tree/master/0520-detect-capital) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sagardosad/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sagardosad/leetocde/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/sagardosad/leetocde/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -70,6 +71,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sagardosad/leetocde/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/sagardosad/leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sagardosad/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -218,5 +220,6 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sagardosad/leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sagardosad/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sagardosad/leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
