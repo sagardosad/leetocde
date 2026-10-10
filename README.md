@@ -75,6 +75,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/sagardosad/leetocde/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sagardosad/leetocde/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sagardosad/leetocde/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sagardosad/leetocde/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sagardosad/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Floyd's Cycle Finding Algorithm
@@ -164,6 +165,7 @@
 | [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sagardosad/leetocde/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/sagardosad/leetocde/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sagardosad/leetocde/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sagardosad/leetocde/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sagardosad/leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -241,6 +243,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/sagardosad/leetocde/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sagardosad/leetocde/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sagardosad/leetocde/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sagardosad/leetocde/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sagardosad/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -249,4 +252,5 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sagardosad/leetocde/tree/master/0594-longest-harmonious-subsequence) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sagardosad/leetocde/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
