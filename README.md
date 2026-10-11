@@ -171,6 +171,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sagardosad/leetocde/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sagardosad/leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sagardosad/leetocde/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sagardosad/leetocde/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
@@ -265,4 +266,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sagardosad/leetocde/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sagardosad/leetocde/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sagardosad/leetocde/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
