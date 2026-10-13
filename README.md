@@ -122,6 +122,7 @@
 | [0148-sort-list](https://github.com/sagardosad/leetocde/tree/master/0148-sort-list) |
 | [0594-longest-harmonious-subsequence](https://github.com/sagardosad/leetocde/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/sagardosad/leetocde/tree/master/0905-sort-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sagardosad/leetocde/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Merge Sort
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sagardosad/leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sagardosad/leetocde/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sagardosad/leetocde/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sagardosad/leetocde/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sagardosad/leetocde/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sagardosad/leetocde/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
@@ -273,4 +275,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sagardosad/leetocde/tree/master/2778-sum-of-squares-of-special-elements) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sagardosad/leetocde/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
