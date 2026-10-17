@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sagardosad/leetocde/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sagardosad/leetocde/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sagardosad/leetocde/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sagardosad/leetocde/tree/master/0141-linked-list-cycle) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagardosad/leetocde/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sagardosad/leetocde/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sagardosad/leetocde/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sagardosad/leetocde/tree/master/0232-implement-queue-using-stacks) |
@@ -152,6 +154,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/sagardosad/leetocde/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/sagardosad/leetocde/tree/master/2104-sum-of-subarray-ranges) |
@@ -167,6 +170,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/sagardosad/leetocde/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sagardosad/leetocde/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sagardosad/leetocde/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
@@ -236,6 +240,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/sagardosad/leetocde/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/sagardosad/leetocde/tree/master/0338-counting-bits) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
