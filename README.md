@@ -110,6 +110,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagardosad/leetocde/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sagardosad/leetocde/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/sagardosad/leetocde/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/sagardosad/leetocde/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sagardosad/leetocde/tree/master/0225-implement-stack-using-queues) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sagardosad/leetocde/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/sagardosad/leetocde/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/sagardosad/leetocde/tree/master/2104-sum-of-subarray-ranges) |
@@ -177,6 +179,7 @@
 | [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sagardosad/leetocde/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sagardosad/leetocde/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sagardosad/leetocde/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sagardosad/leetocde/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
@@ -318,5 +321,6 @@
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sagardosad/leetocde/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/sagardosad/leetocde/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
