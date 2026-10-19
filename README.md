@@ -42,6 +42,7 @@
 | [0328-odd-even-linked-list](https://github.com/sagardosad/leetocde/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sagardosad/leetocde/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sagardosad/leetocde/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardosad/leetocde/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/sagardosad/leetocde/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -124,6 +125,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sagardosad/leetocde/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sagardosad/leetocde/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sagardosad/leetocde/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sagardosad/leetocde/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/sagardosad/leetocde/tree/master/2104-sum-of-subarray-ranges) |
@@ -170,6 +172,7 @@
 | [0085-maximal-rectangle](https://github.com/sagardosad/leetocde/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sagardosad/leetocde/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/sagardosad/leetocde/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sagardosad/leetocde/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
@@ -204,6 +207,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/sagardosad/leetocde/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sagardosad/leetocde/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sagardosad/leetocde/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sagardosad/leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/sagardosad/leetocde/tree/master/2104-sum-of-subarray-ranges) |
