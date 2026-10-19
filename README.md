@@ -13,6 +13,7 @@
 | [0402-remove-k-digits](https://github.com/sagardosad/leetocde/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sagardosad/leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/sagardosad/leetocde/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/sagardosad/leetocde/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sagardosad/leetocde/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sagardosad/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sagardosad/leetocde/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -120,6 +121,7 @@
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sagardosad/leetocde/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/sagardosad/leetocde/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/sagardosad/leetocde/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sagardosad/leetocde/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/sagardosad/leetocde/tree/master/1021-remove-outermost-parentheses) |
@@ -257,12 +259,14 @@
 | [0085-maximal-rectangle](https://github.com/sagardosad/leetocde/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sagardosad/leetocde/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/sagardosad/leetocde/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/sagardosad/leetocde/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagardosad/leetocde/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sagardosad/leetocde/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sagardosad/leetocde/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sagardosad/leetocde/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
@@ -316,6 +320,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sagardosad/leetocde/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/sagardosad/leetocde/tree/master/0678-valid-parenthesis-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sagardosad/leetocde/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
