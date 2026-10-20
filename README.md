@@ -33,6 +33,7 @@
 | [0141-linked-list-cycle](https://github.com/sagardosad/leetocde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagardosad/leetocde/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sagardosad/leetocde/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/sagardosad/leetocde/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/sagardosad/leetocde/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagardosad/leetocde/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sagardosad/leetocde/tree/master/0203-remove-linked-list-elements) |
@@ -77,6 +78,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sagardosad/leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/sagardosad/leetocde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagardosad/leetocde/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sagardosad/leetocde/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagardosad/leetocde/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/sagardosad/leetocde/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sagardosad/leetocde/tree/master/0424-longest-repeating-character-replacement) |
@@ -307,6 +309,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sagardosad/leetocde/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sagardosad/leetocde/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sagardosad/leetocde/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sagardosad/leetocde/tree/master/0232-implement-queue-using-stacks) |
@@ -343,4 +346,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sagardosad/leetocde/tree/master/0085-maximal-rectangle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sagardosad/leetocde/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
