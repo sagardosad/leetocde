@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/sagardosad/leetocde/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
+| [0392-is-subsequence](https://github.com/sagardosad/leetocde/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/sagardosad/leetocde/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sagardosad/leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/sagardosad/leetocde/tree/master/0520-detect-capital) |
@@ -68,6 +69,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sagardosad/leetocde/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/sagardosad/leetocde/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/sagardosad/leetocde/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sagardosad/leetocde/tree/master/0905-sort-array-by-parity) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sagardosad/leetocde/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -268,6 +270,7 @@
 | [0085-maximal-rectangle](https://github.com/sagardosad/leetocde/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sagardosad/leetocde/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/sagardosad/leetocde/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/sagardosad/leetocde/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sagardosad/leetocde/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sagardosad/leetocde/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
