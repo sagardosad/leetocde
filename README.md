@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagardosad/leetocde/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sagardosad/leetocde/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/sagardosad/leetocde/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sagardosad/leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sagardosad/leetocde/tree/master/0020-valid-parentheses) |
@@ -58,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sagardosad/leetocde/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sagardosad/leetocde/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sagardosad/leetocde/tree/master/0061-rotate-list) |
@@ -273,6 +275,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sagardosad/leetocde/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sagardosad/leetocde/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sagardosad/leetocde/tree/master/0085-maximal-rectangle) |
@@ -427,4 +430,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sagardosad/leetocde/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sagardosad/leetocde/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
