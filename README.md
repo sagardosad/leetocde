@@ -90,6 +90,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sagardosad/leetocde/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sagardosad/leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sagardosad/leetocde/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/sagardosad/leetocde/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/sagardosad/leetocde/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/sagardosad/leetocde/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sagardosad/leetocde/tree/master/0930-binary-subarrays-with-sum) |
@@ -134,6 +135,7 @@
 | [0234-palindrome-linked-list](https://github.com/sagardosad/leetocde/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sagardosad/leetocde/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/sagardosad/leetocde/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/sagardosad/leetocde/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sagardosad/leetocde/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sagardosad/leetocde/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sagardosad/leetocde/tree/master/0735-asteroid-collision) |
@@ -185,6 +187,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sagardosad/leetocde/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sagardosad/leetocde/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sagardosad/leetocde/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/sagardosad/leetocde/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sagardosad/leetocde/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/1019-next-greater-node-in-linked-list) |
@@ -214,6 +217,7 @@
 | [0239-sliding-window-maximum](https://github.com/sagardosad/leetocde/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
+| [0496-next-greater-element-i](https://github.com/sagardosad/leetocde/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sagardosad/leetocde/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sagardosad/leetocde/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/sagardosad/leetocde/tree/master/0735-asteroid-collision) |
