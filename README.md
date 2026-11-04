@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagardosad/leetocde/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/sagardosad/leetocde/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sagardosad/leetocde/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sagardosad/leetocde/tree/master/0061-rotate-list) |
@@ -154,6 +155,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sagardosad/leetocde/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/sagardosad/leetocde/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/sagardosad/leetocde/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/sagardosad/leetocde/tree/master/0594-longest-harmonious-subsequence) |
@@ -202,6 +204,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sagardosad/leetocde/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/sagardosad/leetocde/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sagardosad/leetocde/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sagardosad/leetocde/tree/master/0042-trapping-rain-water) |
