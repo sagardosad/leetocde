@@ -271,6 +271,7 @@
 | [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sagardosad/leetocde/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/sagardosad/leetocde/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sagardosad/leetocde/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sagardosad/leetocde/tree/master/0318-maximum-product-of-word-lengths) |
@@ -309,6 +310,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sagardosad/leetocde/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/sagardosad/leetocde/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/sagardosad/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sagardosad/leetocde/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -397,6 +399,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/sagardosad/leetocde/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagardosad/leetocde/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sagardosad/leetocde/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/sagardosad/leetocde/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -427,6 +430,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/sagardosad/leetocde/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagardosad/leetocde/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sagardosad/leetocde/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/sagardosad/leetocde/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
