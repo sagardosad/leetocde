@@ -152,6 +152,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagardosad/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sagardosad/leetocde/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/sagardosad/leetocde/tree/master/0191-number-of-1-bits) |
 ## Sorting
@@ -216,6 +217,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sagardosad/leetocde/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sagardosad/leetocde/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sagardosad/leetocde/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagardosad/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sagardosad/leetocde/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/sagardosad/leetocde/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagardosad/leetocde/tree/master/0209-minimum-size-subarray-sum) |
@@ -395,6 +397,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/sagardosad/leetocde/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sagardosad/leetocde/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagardosad/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sagardosad/leetocde/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagardosad/leetocde/tree/master/0144-binary-tree-preorder-traversal) |
@@ -426,6 +429,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/sagardosad/leetocde/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sagardosad/leetocde/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagardosad/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sagardosad/leetocde/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagardosad/leetocde/tree/master/0144-binary-tree-preorder-traversal) |
@@ -458,4 +462,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagardosad/leetocde/tree/master/0005-longest-palindromic-substring) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagardosad/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
