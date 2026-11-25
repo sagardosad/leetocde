@@ -144,6 +144,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sagardosad/leetocde/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sagardosad/leetocde/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sagardosad/leetocde/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sagardosad/leetocde/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sagardosad/leetocde/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -198,6 +199,7 @@
 | [0496-next-greater-element-i](https://github.com/sagardosad/leetocde/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sagardosad/leetocde/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/sagardosad/leetocde/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sagardosad/leetocde/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/sagardosad/leetocde/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sagardosad/leetocde/tree/master/2487-remove-nodes-from-linked-list) |
@@ -238,6 +240,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/sagardosad/leetocde/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sagardosad/leetocde/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardosad/leetocde/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sagardosad/leetocde/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sagardosad/leetocde/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sagardosad/leetocde/tree/master/1248-count-number-of-nice-subarrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sagardosad/leetocde/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -412,6 +415,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sagardosad/leetocde/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sagardosad/leetocde/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -447,6 +451,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sagardosad/leetocde/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sagardosad/leetocde/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sagardosad/leetocde/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -477,4 +482,5 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagardosad/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sagardosad/leetocde/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sagardosad/leetocde/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sagardosad/leetocde/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
